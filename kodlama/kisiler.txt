@@ -1,0 +1,6 @@
+serkan,çam,39
+oya,can,22
+as,as,22
+hasan,solmaz,28
+hasan,solmaz,29
+fatma,yörük,40
